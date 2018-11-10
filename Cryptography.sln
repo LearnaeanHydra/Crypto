@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElGamalAlgorithm", "ElGamalAlgorithm\ElGamalAlgorithm.csproj", "{1C799E91-D347-4D44-B5D4-0383BF13F529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElGamalAlgorithmTests", "ElGamalAlgorithmTests\ElGamalAlgorithmTests.csproj", "{39D64078-257D-4E88-A33D-E131A77362E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C799E91-D347-4D44-B5D4-0383BF13F529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C799E91-D347-4D44-B5D4-0383BF13F529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C799E91-D347-4D44-B5D4-0383BF13F529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C799E91-D347-4D44-B5D4-0383BF13F529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D64078-257D-4E88-A33D-E131A77362E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D64078-257D-4E88-A33D-E131A77362E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D64078-257D-4E88-A33D-E131A77362E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D64078-257D-4E88-A33D-E131A77362E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB136295-2DBD-4CD1-9F8C-DCF9F5097444}
+	EndGlobalSection
+EndGlobal

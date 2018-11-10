@@ -1,0 +1,8 @@
+C:\Users\marek\source\repos\ElGamalAlgorithm\ElGamalAlgorithm\bin\Debug\netstandard1.4\ElGamalAlgorithm.deps.json
+C:\Users\marek\source\repos\ElGamalAlgorithm\ElGamalAlgorithm\bin\Debug\netstandard1.4\ElGamalAlgorithm.dll
+C:\Users\marek\source\repos\ElGamalAlgorithm\ElGamalAlgorithm\bin\Debug\netstandard1.4\ElGamalAlgorithm.pdb
+C:\Users\marek\source\repos\ElGamalAlgorithm\ElGamalAlgorithm\obj\Debug\netstandard1.4\ElGamalAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\marek\source\repos\ElGamalAlgorithm\ElGamalAlgorithm\obj\Debug\netstandard1.4\ElGamalAlgorithm.AssemblyInfo.cs
+C:\Users\marek\source\repos\ElGamalAlgorithm\ElGamalAlgorithm\obj\Debug\netstandard1.4\ElGamalAlgorithm.dll
+C:\Users\marek\source\repos\ElGamalAlgorithm\ElGamalAlgorithm\obj\Debug\netstandard1.4\ElGamalAlgorithm.pdb
+C:\Users\marek\source\repos\ElGamalAlgorithm\ElGamalAlgorithm\obj\Debug\netstandard1.4\ElGamalAlgorithm.csprojAssemblyReference.cache
